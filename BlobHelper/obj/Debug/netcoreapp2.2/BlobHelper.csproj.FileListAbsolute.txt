@@ -1,0 +1,12 @@
+C:\Users\Andreas\source\repos\BlobUpload\BlobHelper\bin\Debug\netcoreapp2.2\BlobHelper.deps.json
+C:\Users\Andreas\source\repos\BlobUpload\BlobHelper\bin\Debug\netcoreapp2.2\BlobHelper.dll
+C:\Users\Andreas\source\repos\BlobUpload\BlobHelper\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andreas\source\repos\BlobUpload\BlobHelper\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Andreas\source\repos\BlobUpload\BlobHelper\obj\Debug\netcoreapp2.2\BlobHelper.csprojAssemblyReference.cache
+C:\Users\Andreas\source\repos\BlobUpload\BlobHelper\obj\Debug\netcoreapp2.2\BlobHelper.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\BlobUpload\BlobHelper\obj\Debug\netcoreapp2.2\BlobHelper.AssemblyInfoInputs.cache
+C:\Users\Andreas\source\repos\BlobUpload\BlobHelper\obj\Debug\netcoreapp2.2\BlobHelper.AssemblyInfo.cs
+C:\Users\Andreas\source\repos\BlobUpload\BlobHelper\obj\Debug\netcoreapp2.2\BlobHelper.csproj.CopyComplete
+C:\Users\Andreas\source\repos\BlobUpload\BlobHelper\bin\Debug\netcoreapp2.2\BlobHelper.pdb
+C:\Users\Andreas\source\repos\BlobUpload\BlobHelper\obj\Debug\netcoreapp2.2\BlobHelper.dll
+C:\Users\Andreas\source\repos\BlobUpload\BlobHelper\obj\Debug\netcoreapp2.2\BlobHelper.pdb

@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Upload File to Blob";
+}
+
+<form method="post" enctype="multipart/form-data" asp-controller="UploadFiles" asp-action="Index">
+    <div class="form-group">
+        <div class="col-md-10">
+            <p>Pilih gambar yang akan dianalisa :</p>
+            <input type="file" name="files" multiple>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="submit" value="Upload">
+        </div>
+        <b> @{ @ViewBag.response } </b>
+    </div>
+
+    <table border="0">
+        <tr>
+            <td>
+                <b> @{ @ViewBag.ImageDesc } </b>
+            <br><img class="img" src="@{ @ViewBag.urlUploadedFile}" width="500" height="300"/></td>
+            <td>
+                <div style="height:300px;width:500px;border:1px solid #ccc;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
+                    @{ @ViewBag.jsonData}
+                </div>
+            </td>
+        </tr>
+    </table>
+
+</form>

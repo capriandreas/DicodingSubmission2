@@ -1,0 +1,14 @@
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\bin\Debug\netcoreapp2.2\VisionHelper.deps.json
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\bin\Debug\netcoreapp2.2\VisionHelper.dll
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\obj\Debug\netcoreapp2.2\VisionHelper.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\obj\Debug\netcoreapp2.2\VisionHelper.AssemblyInfoInputs.cache
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\obj\Debug\netcoreapp2.2\VisionHelper.AssemblyInfo.cs
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\bin\Debug\netcoreapp2.2\VisionHelper.pdb
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\bin\Debug\netcoreapp2.2\BlobHelper.dll
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\bin\Debug\netcoreapp2.2\BlobHelper.pdb
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\obj\Debug\netcoreapp2.2\VisionHelper.csprojAssemblyReference.cache
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\obj\Debug\netcoreapp2.2\VisionHelper.csproj.CopyComplete
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\obj\Debug\netcoreapp2.2\VisionHelper.dll
+C:\Users\Andreas\source\repos\BlobUpload\VisionHelper\obj\Debug\netcoreapp2.2\VisionHelper.pdb
